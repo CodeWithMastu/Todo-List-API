@@ -52,3 +52,14 @@ CodeCoverage/
 *.VisualState.xml
 TestResult.xml
 nunit-*.xml
+
+# Config
+.config/
+appsettings.json
+appsettings.Development.json
+
+# Random stuffs
+WeatherForecast.cs
+WeatherForecastController.cs
+.vs
+.http
